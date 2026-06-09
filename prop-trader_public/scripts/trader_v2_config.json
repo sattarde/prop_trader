@@ -1,0 +1,11 @@
+{
+    "market_regime": "Trending_Bearish",
+    "reasoning_summary": "1D trend is DOWN with strong ADX, but positive 4H MACD histogram opposes the trend alongside neutral RSI and low RVOL, dictating a neutral stance.",
+    "active_strategy": "STRAT_TREND_RECLAIM",
+    "directional_bias": "NEUTRAL",
+    "approved_assets": [
+        "TOP_20"
+    ],
+    "risk_per_trade_pct": 0.25,
+    "action_override": "NONE"
+}

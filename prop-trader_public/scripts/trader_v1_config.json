@@ -1,0 +1,11 @@
+{
+    "market_regime": "Choppy_Ranging",
+    "reasoning_summary": "With the 1D trend down and MACD histogram confirming bearish momentum, the low 1H ADX and neutral RSI indicate a choppy environment best suited for short-side liquidity sweeps.",
+    "active_strategy": "STRAT_LIQUIDITY_SWEEP",
+    "directional_bias": "SHORT_ONLY",
+    "approved_assets": [
+        "TOP_20"
+    ],
+    "risk_per_trade_pct": 0.1,
+    "action_override": "NONE"
+}
